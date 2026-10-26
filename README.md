@@ -117,7 +117,7 @@ The clearest failures were 2 timeouts (games 27 and 65) and 1 crash (game 58). T
 
 Both fixed agents had fewer left-right flips than the baseline (33 and 14 against 44) and used the engines less, while scoring about the same. They did not get around the rule, because `lr_flips` also counts left-right changes with other buttons in between. Tilt stayed about the same (0.06 against 0.07 and 0.06), so that part of my goal was not met. The two seeds disagree on how big the effect is, and seed 0 had one crash, so the size of the improvement is not certain.
 
-![fixed](media/fixed_penalty_seed0.gif)
+![fixed](media/fixed_penalty_seed1.gif)
 
 ## Limitations
 
