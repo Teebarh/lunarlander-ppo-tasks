@@ -1,0 +1,5 @@
+,steps,engine_steps,switches,lr_flips,mean_abs_angle
+ppo_baseline_seed1,368.07,243.23,228.0,44.23,0.06
+broken_holdbonus_seed0,391.23,331.87,246.37,103.07,0.05
+fixed_penalty_seed0,343.07,219.07,202.03,32.6,0.07
+fixed_penalty_seed1,359.73,204.53,216.63,14.2,0.06

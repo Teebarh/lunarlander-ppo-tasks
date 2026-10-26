@@ -1,0 +1,5 @@
+model,mean,std,min,max,success,landed,crash,timeout,avg_steps
+ppo_baseline_seed1,255.2,20.2,209.6,294.0,100.0,100.0,0.0,0.0,365.4
+broken_holdbonus_seed0,244.2,35.7,33.3,293.2,96.0,97.0,1.0,2.0,383.3
+fixed_penalty_seed0,252.8,30.7,40.4,295.7,98.0,99.0,1.0,0.0,336.7
+fixed_penalty_seed1,257.4,19.5,210.8,299.5,100.0,100.0,0.0,0.0,358.7
